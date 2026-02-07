@@ -1,0 +1,3 @@
+[submodule "origin"]
+	path = origin
+	url = https://github.com/zenitysec/awesome-low-code.git
