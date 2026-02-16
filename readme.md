@@ -138,7 +138,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 * [XrmToolBox](https://github.com/MscrmTools/XrmToolBox) ⭐ 621 | 🐛 112 | 🌐 C# | 📅 2025-10-31 - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
 * [Levelup for Dynamics CRM](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) ⭐ 257 | 🐛 20 | 🌐 TypeScript | 📅 2026-01-21 - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
-* [Flow & Power Apps Migrator](https://github.com/Zerg00s/FlowPowerAppsMigrator) ⭐ 155 | 🐛 41 | 🌐 PowerShell | 📅 2025-08-05 - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
+* [Flow & Power Apps Migrator](https://github.com/Zerg00s/FlowPowerAppsMigrator) ⭐ 156 | 🐛 41 | 🌐 PowerShell | 📅 2025-08-05 - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
 * [Power Platform Adoption Framework](https://github.com/PowerPlatformAF/PowerPlatformAF) ⭐ 136 | 🐛 64 | 📅 2021-03-20 - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
 * [SharePoint Workflow Converter](https://github.com/TracyGH/SharePointWorkflowConverter) ⭐ 16 | 🐛 1 | 🌐 C# | 📅 2020-09-16 - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
 
@@ -146,7 +146,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) ⭐ 3,334 | 🐛 355 | 🌐 C# | 📅 2026-02-13 - Power Fx Low Code programming language.
+* [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) ⭐ 3,334 | 🐛 355 | 🌐 C# | 📅 2026-02-15 - Power Fx Low Code programming language.
 * [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) ⭐ 1,207 | 🐛 314 | 🌐 C# | 📅 2026-02-12 - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 
 ### Workato
