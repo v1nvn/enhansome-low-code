@@ -147,7 +147,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 ### Power Platform (Microsoft)
 
 * [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) ⭐ 3,334 | 🐛 355 | 🌐 C# | 📅 2026-02-15 - Power Fx Low Code programming language.
-* [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) ⭐ 1,207 | 🐛 314 | 🌐 C# | 📅 2026-02-12 - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
+* [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) ⭐ 1,207 | 🐛 315 | 🌐 C# | 📅 2026-02-12 - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 
 ### Workato
 
@@ -169,8 +169,8 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [Power Apps Samples](https://github.com/pnp/powerapps-samples) ⭐ 515 | 🐛 37 | 📅 2025-08-06 - Contains curated community Microsoft Power App samples.
-* [Power Automate Samples](https://github.com/pnp/powerautomate-samples) ⭐ 336 | 🐛 15 | 📅 2026-01-19 - Contains curated community samples for Microsoft Power Automate.
+* [Power Apps Samples](https://github.com/pnp/powerapps-samples) ⭐ 516 | 🐛 37 | 📅 2025-08-06 - Contains curated community Microsoft Power App samples.
+* [Power Automate Samples](https://github.com/pnp/powerautomate-samples) ⭐ 337 | 🐛 15 | 📅 2026-01-19 - Contains curated community samples for Microsoft Power Automate.
 * [SharePoint Power Platform Solutions](https://github.com/pnp/sp-power-platform-solutions) ⭐ 176 | 🐛 2 | 🌐 PowerShell | 📅 2020-01-29 - Sample PowerApps solutions designed to be used in SharePoint context.
 * [PowerApps Samples](https://github.com/Eickhel/PowerApps-samples) ⭐ 83 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-14 - Power Apps samples by Power Nimbus.
 * [Power Apps Branding Template](https://github.com/iAmManCat/PowerApps-Branding-Template) ⭐ 75 | 🐛 0 | 🌐 PowerShell | 📅 2024-07-31 - A template to empower developers and reduce time wasted on control changes.
